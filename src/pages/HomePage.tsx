@@ -3,9 +3,9 @@ interface HomePageProps {
 }
 
 const servers = [
-  { name: "Хельмова Падь", game: "Age of Conan", online: 142, max: 200, status: "online" },
-  { name: "Золотой Зал", game: "Lineage II", online: 87, max: 150, status: "online" },
-  { name: "Эдорас", game: "World of Warcraft", online: 0, max: 100, status: "offline" },
+  { name: "error", game: "Age of Conan", online: 142, max: 200, status: "online" },
+  { name: "error", game: "Lineage II", online: 87, max: 150, status: "online" },
+  { name: "error", game: "World of Warcraft", online: 0, max: 100, status: "offline" },
 ];
 
 const features = [
